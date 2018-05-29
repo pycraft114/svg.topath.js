@@ -16,7 +16,7 @@
     "Wout Fierens"
   ],
   "homepage": "https://github.com/svgdotjs/svg.topath.js",
-  "main": "dist/svg.filter.js",
+  "main": "svg.toapth.js",
   "files": [
     "dist/"
   ],
