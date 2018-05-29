@@ -1,5 +1,5 @@
 {
-  "name": "svg.filter.js",
+  "name": "svg.topath.js",
   "version": "2.0.2",
   "description": "A plugin for svg.js adding filter functionality",
   "keywords": [
@@ -7,7 +7,7 @@
     "filter",
     "effect"
   ],
-  "bugs": "https://github.com/wout/svg.filter.js/issues",
+  "bugs": "https://github.com/svgdotjs/svg.topath.js/issues",
   "license": "MIT",
   "author": {
     "name": "Wout Fierens"
@@ -15,19 +15,18 @@
   "contributors": [
     "Wout Fierens"
   ],
-  "homepage": "https://github.com/wout/svg.filter.js",
+  "homepage": "https://github.com/svgdotjs/svg.topath.js",
   "main": "dist/svg.filter.js",
   "files": [
     "dist/"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/wout/svg.filter.js.git"
+    "url": "https://github.com/svgdotjs/svg.topath.js"
   },
   "engines": {
     "node": ">= 0.8.0"
   },
-
   "dependencies": {
     "svg.js": "^2.3.5"
   }
